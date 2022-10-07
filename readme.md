@@ -8,7 +8,8 @@
 2. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 3. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 4. [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
-5. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
-6. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
+5. [Paper IA - SoftIng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
+6. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
+7. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
 
 # Proyecto final
