@@ -33,3 +33,6 @@ Escoger alguno de los siguientes temas:
 5. [Paper IA - SoftEng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 6. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 7. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
+
+# Entrenamiento en TensorflowJs
+1. [Get started with TensorFlow.js](https://www.tensorflow.org/js/tutorials)
