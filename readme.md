@@ -7,6 +7,7 @@ Crear un App en Flutter que consuma un modelo de IA.
 - Tensorflow puede ser usado en su version Python/Keras o en TensorflowJs/Javascript
 - El modelo debe ser desplegado en un Docker container
 - El proyecto de IA debera ser desplegado produccion sobre un Cluster de Kubernetes 
+- El proceso de construccion del modelo de IA debera usar CI/CD usando Workflows/Github Actions 
 
 Escoger alguno de los siguientes temas:
 
