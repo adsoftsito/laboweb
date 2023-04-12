@@ -35,5 +35,14 @@ Escoger alguno de los siguientes temas:
 6. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 7. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
 
+# Entrenamiento en Docker
+1. Instalar [docker](https://docs.docker.com/engine/install/centos/)
+2. Lectura [introduccion a docker](https://github.com/adsoftsito/web/blob/main/w1/docker_intro.pdf)
+3. Realizar [DockerLab](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf)
+4. Realizar [DockerLab2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+5. Registrarse en [Docker Hub](https://hub.docker.com/)
+6. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
+
+
 # Entrenamiento en TensorflowJs
 1. [Get started with TensorFlow.js](https://www.tensorflow.org/js/tutorials)
