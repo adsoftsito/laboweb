@@ -43,6 +43,8 @@ Escoger alguno de los siguientes temas:
 5. Registrarse en [Docker Hub](https://hub.docker.com/)
 6. Subir imagen de nodejs a Docker Hub (Punto 5 dockerlab)
 
+# Modelo resnet
+1. Realizar Lab [Resnet/Flutter](https://docs.google.com/presentation/d/1KufW46qT7pr_kWVLWu6iQAnmTD9AkaPoSqT04sHCYfE/edit?usp=sharing) 
 
 # Entrenamiento en TensorflowJs
 1. [Get started with TensorFlow.js](https://www.tensorflow.org/js/tutorials)
